@@ -1,0 +1,16 @@
+#movies img, #movie img {
+  width: 100%;
+}
+
+#movie .col-md-4 img {
+  height: 350px;
+}
+
+#movies .col-md-3 .well {
+  height: 450px;
+  padding: 10px;
+}
+
+#movies .col-md-3 img {
+  height: 300px;
+}
